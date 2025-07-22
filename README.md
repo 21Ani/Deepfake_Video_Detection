@@ -1,7 +1,7 @@
 # Deepfake_Video_Detection
 ## Contributors
 - [Anish Bhardwaj](https://github.com/21Ani)
-- [Daksh Saini]((https://github.com/sainidaksh45))
+- [Daksh Saini](https://github.com/sainidaksh45)
 
 
 ## Dataset  
