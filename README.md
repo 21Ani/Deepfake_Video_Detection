@@ -20,8 +20,6 @@ The tool is deployed as a **Flask web application**, and users can interact thro
 
 ---
 
-## 🤝 Contributors
-
 ## 0. 🚀 Technologies
 - **Python**  
 - **Flask** (Web Framework)  
@@ -85,6 +83,17 @@ The system uses a **dual-pipeline approach**: one for audio, one for video.
 - Early stopping and checkpointing  
 - Standardization of input length and dimensions  
 
+---
+---
+## IV. 🎥 Demo Video
+Watch the demo of **AuthentiCall Detection using Emotion Analysis** here:  
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
+
+---
+
+## V. 🤝 Contributors
+- **[Daksh Saini](https://github.com/sainidaksh45)**
+   
 ---
 
 ## IV. 💻 How to Use
