@@ -65,8 +65,8 @@ By combining both modalities, our system increases robustness and reliability.
 The system uses a **dual-pipeline approach**: one for audio, one for video.
 
 ### 🔹 Audio Detection Pipeline
-1. Load audio file and resample to 22050 Hz.  
-2. Extract **log-mel spectrogram** using Librosa.  
+1. Load audio file.  
+2. Extract **mel spectrogram** using Librosa.  
 3. Resize spectrogram to fixed dimensions.  
 4. Feed into a **PyTorch CNN model** for classification.  
 5. Output: `Original` or `Deepfake` with confidence score.  
@@ -100,7 +100,7 @@ Watch the demo of **AuthentiCall Detection using Emotion Analysis** here:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/deepfake-detection.git
+git clone https://github.com/21Ani/Deepfake_Video_Detection.git
 cd deepfake-detection
 
 # Create virtual environment
